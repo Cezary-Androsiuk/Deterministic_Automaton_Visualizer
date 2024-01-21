@@ -1,7 +1,7 @@
 # Deterministic Automaton Visualizer
 
 ## About
-DAV is a program that illustrates the steps of verifying whether a word belongs to the alphabet.
+DAV is a program that illustrates the steps of verifying whether a word belongs to the alphabet, for the university.
 
 ## Description
 This program was created as part of completing the university course 'Elements of Automata Theory and Formal Languages.' It visualizes whether a word belongs to the alphabet composed of the letters [a, b] and whether it ends with the combination 'bbaa.' DAV was developed using the Qt framework for the C++ language. The visual aspects are handled by the QML language and a significant amount of JavaScript. The program is cross-platform, but the repository includes an executable file (along with all the required files) for the Windows operating system.
